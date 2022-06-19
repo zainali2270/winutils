@@ -153,8 +153,8 @@ gpg --armor --detach-sign hadoop-2.8.0.zip
 
 ### github, create the release
 
-1. Go to the [github repository](https://github.com/steveloughran/winutils)
+1. Go to the [github repository](https://github.com/zainali2270/winutils)
 1. Verify the most recent commit is visible
-1. [Create a new release](https://github.com/steveloughran/winutils/releases/new)
+1. [Create a new release](https://github.com/zainali2270/winutils/releases/new)
 1. Tag the release with the hadoop version, include the commit checksum used to build off
 1. Drop in the .zip and .zip.asc files as binary artifacts
